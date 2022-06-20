@@ -3,7 +3,7 @@ from random import shuffle
 import pandas as pd
 import torch
 import numpy as np
-# import torch.utils.data.Subset 非随机
+# import torch.utils.data.Subset
 from PIL import Image
 from torchvision.transforms import transforms
 from torch.utils.data.dataset import Dataset
